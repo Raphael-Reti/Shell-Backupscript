@@ -94,6 +94,7 @@ function listbackup(){
 }
 
 function deletebackup(){
+	find /tmp backup-program.tqz 
 	echo "DELETEBACKUP"
 }
 
